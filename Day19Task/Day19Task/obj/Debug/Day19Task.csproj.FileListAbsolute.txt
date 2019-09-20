@@ -1,0 +1,11 @@
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\bin\Debug\NLog.config
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\bin\Debug\Day19Task.exe.config
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\bin\Debug\Day19Task.exe
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\bin\Debug\Day19Task.pdb
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\bin\Debug\NLog.dll
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\bin\Debug\NLog.xml
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\obj\Debug\Day19Task.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\obj\Debug\Day19Task.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\obj\Debug\Day19Task.csproj.CopyComplete
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\obj\Debug\Day19Task.exe
+C:\Users\Tanya\source\repos\Day19Task\Day19Task\obj\Debug\Day19Task.pdb

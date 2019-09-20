@@ -1,0 +1,3 @@
+2019-09-20 19:43:43.7305 | TRACE | Day19Task.XmlWriter | Start Write
+2019-09-20 19:43:43.8315 | INFO | Day19Task.XmlWriter | Url is not valid : https:/
+2019-09-20 19:43:43.8585 | TRACE | Day19Task.XmlWriter | End Write

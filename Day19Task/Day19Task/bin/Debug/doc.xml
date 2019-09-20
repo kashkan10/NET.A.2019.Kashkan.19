@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlAdresses>
+  <urlAdress>
+    <host name="github.com" />
+    <uri>
+      <segment>AnzhelikaKravchuk</segment>
+    </uri>
+  </urlAdress>
+  <urlAdress>
+    <host name="github.com" />
+    <uri>
+      <segment>AnzhelikaKravchuk</segment>
+      <segment>2017-2018.MMF.BSU</segment>
+    </uri>
+  </urlAdress>
+  <urlAdress>
+    <host name="habrahabr.ru" />
+    <uri>
+      <segment>company</segment>
+      <segment>it-grad</segment>
+      <segment>blog</segment>
+      <segment>341486</segment>
+    </uri>
+  </urlAdress>
+  <urlAdress>
+    <host name="habrahabr.ru" />
+  </urlAdress>
+</urlAdresses>
