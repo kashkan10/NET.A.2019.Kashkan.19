@@ -9,7 +9,9 @@ XML-документ по следующему правилу, например,
 адресами
 
 https://github.com/AnzhelikaKravchuk?tab=repositories
+
 https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU
+
 https://habrahabr.ru/company/it-grad/blog/341486/
 
 результирующим является XML-документ вида (можно использовать любую XML
